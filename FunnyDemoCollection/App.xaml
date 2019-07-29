@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="FunnyDemoCollection.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FunnyDemoCollection">
+    <Application.Resources>
+        <ResourceDictionary Source="/Resources/ControlsStyleLib.xaml"/>
+    </Application.Resources>
+</Application>
